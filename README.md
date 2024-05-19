@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @vianpr0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-my.id
-<!---
-vianpr0/vianpr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Yosa Sianipar
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Lampung University
+- 📫 Informatics Engineering
+- iyos.my.id
+
